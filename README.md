@@ -1,5 +1,7 @@
+```c
 # -.c
-야구게임 프로젝
+야구게임 프로젝트
+
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <stdint.h>
@@ -242,3 +244,4 @@ ONE:
 		exit(1);
 	}
 }
+```
